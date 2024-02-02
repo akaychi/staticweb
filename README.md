@@ -1,2 +1,3 @@
 # staticweb
-Where I depo
+Where I depLOY SAMPLES of Resumes
+
